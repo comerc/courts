@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "508093933470",
+    "project_id": "courts-ce7c6",
+    "storage_bucket": "courts-ce7c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508093933470:android:a94d0dd718b875723d988f",
+        "android_client_info": {
+          "package_name": "com.arisesoft.courts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508093933470-ehtt12u7adrs626gtb0r1nvm21msafu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arisesoft.courts",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "508093933470-2380ibqq65u61ckiiamn8lv05lgf26em.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrbItMHiDHEISXSVStGVP8UiUN4AimRB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508093933470-2380ibqq65u61ckiiamn8lv05lgf26em.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "508093933470-5te9rekp0ic994r3gl059pmefq6p702k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arisesoft.courts"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
